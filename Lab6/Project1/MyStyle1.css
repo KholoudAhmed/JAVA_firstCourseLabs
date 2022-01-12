@@ -1,0 +1,13 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 11, 2022, 1:56:55 PM
+    Author     : user
+*/
+.myStyleClass{
+    -fx-fill:#115ee5;
+    -fx-font:25px sans-serif;
+}
